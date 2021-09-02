@@ -1,3 +1,9 @@
+<h1 align="center" display="flex">
+    <img alt="Tela inicial" src="https://user-images.githubusercontent.com/73333067/131786211-01cfcf4b-e6e2-411f-a4e3-eb463ce5be1f.PNG" width="px" margin-bottom="50px">
+  <br>
+    <img alt="Pota com presente" src="https://user-images.githubusercontent.com/73333067/131786370-24c22cad-b141-4bbb-af90-f4b47882a054.PNG" width="px" height="px" />
+</h1>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
